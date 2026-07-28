@@ -850,6 +850,10 @@ htdocs/blockedlog/admin/blockedlog_control.php
 blockedlog/admin/blockedlog_control.php
 admin/blockedlog_control.php
 blockedlog_control.php
+htdocs/blockedlog/admin/filecheck_diff.php
+blockedlog/admin/filecheck_diff.php
+admin/filecheck_diff.php
+filecheck_diff.php
 htdocs/blockedlog/admin/documentation.php
 blockedlog/admin/documentation.php
 admin/documentation.php
@@ -37036,10 +37040,6 @@ htdocs/core/js/lib_photosresize.js
 core/js/lib_photosresize.js
 js/lib_photosresize.js
 lib_photosresize.js
-htdocs/core/js/listview.js
-core/js/listview.js
-js/listview.js
-listview.js
 htdocs/core/js/tinymce-ckeditor-compat.js
 core/js/tinymce-ckeditor-compat.js
 js/tinymce-ckeditor-compat.js
